@@ -1,0 +1,41 @@
+{
+    "nameOFtheOrganization" : "SciflareTech",
+    "companyStartDate" : "01/01/2013",
+    "numberOfEmployess" : 0,
+    "discription": "Hey Everyone! We are a team of 30+ young geeks with expertise in Mobile Application & Web Application Development, with Over 10+ years of experience in serving various Industries, having set our foot Globally we have proven time & again that we are a class apart when it comes to taking your Business Needs to Next Level with very deep understanding of the requirements & We can proudly say we have created Highly Scalable, THE BEST User Experience (UX) & User Interfaces for the Applications we have built, be it Enterprise or Startups",
+    "services": [
+        {
+            "heading": "FANTASTY SPORTS APP DEVELOPMENT",
+            "description": "",
+            "sub": [
+                {
+                    "sub_heading": "WHITE LABEL FANTASY SPORTS SOFTWARE",
+                    "sub_descriptiofn": ""
+                }
+            ]
+        },
+        {
+            "heading": "FANTASTY SPORTS API SERVICE",
+            "description": "",
+            "sub": [
+                {
+                    "sub_heading": "CRICKET API SOLUTIONS",
+                    "sub_descriptiofn": ""
+                }
+            ]
+        }
+    ],
+    "blogs": [
+        {
+            "title":"GITEX GLOBAL 2023",
+            "views": 314
+        }
+    ],
+    "tech_stack": ["IOS","ANDROID","FLUTTER", "AR-VR", "BLOCK-CHAIN", "NODE JS", "SOLIDITY", "REACT", "ANGULAR", "GRAPH-QL", "AWS"],
+    "clients": ["HDFC LIFE", "VIKATAN GROUPS", "ENERGYLY", "CISCO"],
+    "contact_us": [{
+        "address": "#52, 2nd St, behind Standard Chartered,OMR, Manimegalai Nagar,Karapakkam, Chennai, Tamil Nadu 600097, India",
+        "mobile_no": "+91-984-111-0380",
+        "email_id": "reachus@sciflare.com"
+    }]
+}
