@@ -13,6 +13,9 @@ there func are done by passing BearerToken in the headers (JWT) which you can ge
 
 ## Installation
 
+**IMPORTANT**
+ Since Git repo won't allow to download .env file so i,ve included new file called "env.example" 
+copy env.example file and make new file as .env near app.js  and paste datas from here to there and proceed further
 npm i 
 
 ## run commond 
